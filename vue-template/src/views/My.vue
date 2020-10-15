@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p>我的</p>
+        <p>我的wode</p>
     </div>
 </template>
 
